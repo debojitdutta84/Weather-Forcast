@@ -1,3 +1,7 @@
+To build a UI dashboard which will allow the user to get weather hourly forecast for any entered city
+
+API to fetch the hourly forecast: https://openweathermap.org/api/hourly-forecast
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
